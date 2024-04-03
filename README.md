@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at @VXCase
 
-- 🌎Hi, i'm Rafael Carvalho, I believe that technology has the power to transform the world, and I'm dedicated to developing innovative and efficient solutions.
+- 🌎I believe that technology has the power to transform the world, and I'm dedicated to developing innovative and efficient solutions.
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
