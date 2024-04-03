@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at @VXCase
 
-- 🌎Hi, i'm Rafael a Back-end software developer & a Computer Science student, im currently working at @VXCase,  I believe that technology has the power to transform the world, and I'm dedicated to developing innovative and efficient solutions.
+- 🌎Hi, i'm Rafael Carvalho, I believe that technology has the power to transform the world, and I'm dedicated to developing innovative and efficient solutions.
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -42,6 +42,6 @@
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/rafaelcarvalho0" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
 </p>
