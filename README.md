@@ -1,11 +1,11 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rafael Carvalho</h1>
 
-** 🔥 Back-end Developer & Computer Science Student**
+**🔥 Back-end Developer & Computer Science Student**
 
-** 🔭 I’m currently working at @VXCase**
+**🔭 I’m currently working at @VXCase**
 
-** 🌎I believe that technology has the power to transform the world, and I'm dedicated to developing innovative and efficient solutions.****
+**🌎I believe that technology has the power to transform the world, and I'm dedicated to developing innovative and efficient solutions.**
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
