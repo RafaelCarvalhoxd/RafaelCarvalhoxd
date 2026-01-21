@@ -1,79 +1,87 @@
-# 👋 Rafael Carvalho
+<h1 align="center">👋 Rafael Carvalho</h1>
 
-🚀 **Back-end Software Engineer** | Arquitetura de Sistemas | Microsserviços | Cloud
+<p align="center">
+  <strong>Back-end Software Engineer</strong><br/>
+  Software Architecture • Microservices • Cloud • Event-Driven Systems
+</p>
 
-Sou **Rafael Carvalho**, desenvolvedor **Back-end** com foco em **sistemas escaláveis, performáticos e resilientes**.  
-Formado em **Ciência da Computação** pela **Universidade Jorge Amado (2025)** e com **inglês fluente nível C1**, certificado pela Fisk.
-
-Atuo no mercado de desenvolvimento de software desde **2023**, trabalhando na **criação, manutenção e evolução de aplicações back-end**, sempre orientado a **boas práticas, arquitetura limpa e decisões técnicas bem fundamentadas**.
-
-Tenho forte interesse em **arquitetura de software**, **event-driven systems**, **microsserviços** e **infraestrutura em nuvem**, buscando constantemente soluções que equilibrem **performance, segurança, escalabilidade e simplicidade operacional**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+</p>
 
 ---
 
-## 🧠 Áreas de Atuação
+## 👨‍💻 About
 
-- Desenvolvimento e arquitetura de **APIs robustas**
-- **Microsserviços** e sistemas distribuídos
-- Integração entre sistemas e mensageria
-- Observabilidade, métricas e monitoramento
-- Infraestrutura e serviços em **cloud**
+Back-end Software Engineer focused on building **scalable, resilient, and high-performance systems**.
+
+- 🎓 **B.Sc. in Computer Science** — Universidade Jorge Amado (2025)  
+- 💼 Professional experience since **2023**  
+- 🌍 **English:** Fluent (C1)
+
+Strong interest in **software architecture**, **distributed systems**, **event-driven solutions**, and **cloud infrastructure**, always aiming for a balance between **performance, scalability, security, and operational simplicity**.
+
+---
+
+## 🧠 Expertise
+
+- API design & back-end architecture
+- **Microservices** and distributed systems
+- **Event-driven architecture** & asynchronous messaging
+- System integration
+- Observability, metrics & monitoring
+- Cloud & infrastructure fundamentals
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔹 Linguagens & Runtime
-- **Golang**
-- **Node.js**
-- **TypeScript**
+**Languages & Runtime**  
+`Go` • `Node.js` • `TypeScript`
 
-### 🔹 Arquitetura & Comunicação
-- Clean Architecture  
-- Domain-Driven Design (DDD)  
-- Hexagonal Architecture  
-- Event-Driven Architecture  
-- Microsserviços  
-- gRPC, HTTP, WebSocket  
+**Architecture**  
+Clean Architecture • DDD • Hexagonal Architecture • Event-Driven • Microservices
 
-### 🔹 Mensageria & Assíncrono
-- RabbitMQ
+**Communication**  
+gRPC • HTTP • WebSocket
 
-### 🔹 Bancos de Dados & Cache
-- MySQL  
-- PostgreSQL  
-- MongoDB  
-- Redis  
+**Messaging**  
+RabbitMQ
 
-### 🔹 Infraestrutura & Cloud
-- Docker  
-- Kubernetes  
-- AWS (S3, EC2, RDS)
+**Databases & Cache**  
+MySQL • PostgreSQL • MongoDB • Redis
 
-### 🔹 Observabilidade
-- Prometheus  
-- Grafana  
+**Cloud & Infrastructure**  
+Docker • Kubernetes • AWS (EC2, S3, RDS)
+
+**Observability**  
+Prometheus • Grafana
 
 ---
 
-## 📈 Princípios que sigo no dia a dia
+## 📐 Engineering Mindset
 
-- Código limpo, legível e sustentável
-- Arquitetura orientada ao domínio
-- Separação clara de responsabilidades
-- Foco em **testabilidade e manutenibilidade**
-- Decisões técnicas baseadas em trade-offs reais
-- Pensar sempre em **escala e operação**
-
----
-
-
-## 📬 Contato
-
-- 💼 **LinkedIn:** *(https://www.linkedin.com/in/rafaelcarvalho4/)*
-- 📧 **Email:** *(devarafelcarvalho@gmail.com)*
-- 🌍 **Inglês:** Fluente (C1)
+- Clean, readable, and maintainable code
+- Domain-oriented design
+- Clear separation of responsibilities
+- Strong focus on **testability**
+- Decisions driven by **real-world trade-offs**
+- Always thinking about **scale, reliability, and operation**
 
 ---
 
-⭐️ Fique à vontade para explorar os repositórios, abrir issues ou trocar ideias sobre arquitetura e back-end.
+## 📬 Contact
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rafaelcarvalho4  
+- 📧 **Email:** devarafelcarvalho@gmail.com  
+- 🌍 **English:** Fluent (C1)
+
+---
+
+<p align="center">
+  ⭐️ Feel free to explore my repositories or discuss <strong>backend engineering, software architecture, and distributed systems</strong>.
+</p>
