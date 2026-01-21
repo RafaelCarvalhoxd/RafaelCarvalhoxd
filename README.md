@@ -71,7 +71,7 @@ Tenho forte interesse em **arquitetura de software**, **event-driven systems**, 
 
 ## 📬 Contato
 
-- 💼 **LinkedIn:** *(linkedin.com/in/rafaelcarvalho4)*
+- 💼 **LinkedIn:** *(https://www.linkedin.com/in/rafaelcarvalho4/)*
 - 📧 **Email:** *(devarafelcarvalho@gmail.com)*
 - 🌍 **Inglês:** Fluente (C1)
 
