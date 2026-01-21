@@ -15,10 +15,9 @@ Tenho forte interesse em **arquitetura de software**, **event-driven systems**, 
 
 - Desenvolvimento e arquitetura de **APIs robustas**
 - **Microsserviços** e sistemas distribuídos
-- **Event-Driven Architecture (EDA)**
 - Integração entre sistemas e mensageria
 - Observabilidade, métricas e monitoramento
-- Infraestrutura e serviços em **cloud (AWS)**
+- Infraestrutura e serviços em **cloud**
 
 ---
 
